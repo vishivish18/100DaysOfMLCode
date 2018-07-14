@@ -5,3 +5,4 @@
 * Text data preperation
 * TF-IDF
 * TF-IDF and VSM text classification
+* Sentiment analysis movie reviews
