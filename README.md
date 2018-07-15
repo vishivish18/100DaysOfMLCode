@@ -6,3 +6,4 @@
 * TF-IDF
 * TF-IDF and VSM text classification
 * Sentiment analysis movie reviews
+* Jatana Microservices
