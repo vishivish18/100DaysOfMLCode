@@ -7,3 +7,4 @@
 * TF-IDF and VSM text classification
 * Sentiment analysis movie reviews
 * Jatana Microservices
+* Bot E-Comm
