@@ -8,3 +8,4 @@
 * Sentiment analysis movie reviews
 * Jatana Microservices
 * Bot E-Comm
+* Sentiment analysis - Jatana
