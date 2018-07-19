@@ -10,3 +10,4 @@
 * Bot E-Comm
 * Sentiment analysis - Jatana
 * Curve Fitting
+* Regression
