@@ -12,3 +12,4 @@
 * Curve Fitting
 * Regression
 * Jatana analytics service
+* LSTM
