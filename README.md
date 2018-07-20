@@ -11,3 +11,4 @@
 * Sentiment analysis - Jatana
 * Curve Fitting
 * Regression
+* Jatana analytics service
