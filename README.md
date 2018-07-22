@@ -13,3 +13,4 @@
 * Regression
 * Jatana analytics service
 * LSTM
+* Data Visualisation
