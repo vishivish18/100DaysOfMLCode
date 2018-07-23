@@ -14,3 +14,4 @@
 * Jatana analytics service
 * LSTM
 * Data Visualisation
+* Bias functions
