@@ -15,3 +15,4 @@
 * LSTM
 * Data Visualisation
 * Bias functions
+* Object Detection
