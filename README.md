@@ -16,3 +16,4 @@
 * Data Visualisation
 * Bias functions
 * Object Detection
+* Open CV
