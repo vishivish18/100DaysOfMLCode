@@ -17,3 +17,4 @@
 * Bias functions
 * Object Detection
 * Open CV
+* YOLO for CV
