@@ -19,3 +19,4 @@
 * Open CV
 * YOLO for CV
 * TF image map
+* TF object models
