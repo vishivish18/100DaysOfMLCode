@@ -20,3 +20,4 @@
 * YOLO for CV
 * TF image map
 * TF object models
+* Gaussian Curve distribution
