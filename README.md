@@ -22,4 +22,5 @@
 * TF object models
 * Gaussian Curve distribution
 * TF Serving
-* Data analysis with 
+* Data analysis with Pandas
+* Dataframes and conversions
