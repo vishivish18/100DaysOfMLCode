@@ -25,3 +25,4 @@
 * Data analysis with Pandas
 * Dataframes and conversions
 * Jatana analytics
+* Capstone Project
