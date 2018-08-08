@@ -26,3 +26,4 @@
 * Dataframes and conversions
 * Jatana analytics
 * Capstone Project
+* Working on data visualisation
