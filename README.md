@@ -29,3 +29,4 @@
 * Working on data visualisation
 * Macro Mapping
 * multi-label mapping
+* loading inferences
