@@ -28,3 +28,4 @@
 * Capstone Project
 * Working on data visualisation
 * Macro Mapping
+* multi-label mapping
