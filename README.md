@@ -30,3 +30,4 @@
 * Macro Mapping
 * multi-label mapping
 * loading inferences
+* memory inferences
